@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3_26c1884741c072a7ea5a7918558cce04699c05de.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/zxinglib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ed08ce388f86e0a51e28386254d933b5254d40d0">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mzb-phone-app-android-zxinglib-unspecified_75b0ac28c3887a56962dd644d0d3d1d6868c0bf7.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/android-async-http-1.4.3_77f54d80136f744933266e96a563e622ffa7542b.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/pulltorefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="639f404b17e25e239dc665ef24d4626965fc87d3">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mzb-phone-app-android-pulltorefresh-unspecified_9ea9e35c0ee8ae01a95a837a790962787b3746fe.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/circleimageview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ca52e263f1024aecb769d0a27a5b95fd60887fbe">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mzb-phone-app-android-circleimageview-unspecified_ddf35bc2fe8351813fe4457bfd78a4aaf7eba1fd.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/sun.misc.BASE64Decoder_d6d3a95174a2e71394f10d97af4370370329852c.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/okio-1.6.0_990d772474c31187a43cba4d3e5a486ceeb697d7.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/umeng_social_sdk_8875ccd53862ff602492da89ebb9ef2d77403435.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_cbe7b6d1c0857fd76fceef4c10b7fc8dd7579e14.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_1_46b8addd284531a3d7ce1e56ffa7b94284e57bd0.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/support-annotations-22.1.0_4dee261463276f8048fd3745a736cd2a9e91fcac.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/pulltorefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="65051a2221c0d8532c80acc461446093634c7fe9">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mzb-phone-app-android-pulltorefresh-unspecified_9ea9e35c0ee8ae01a95a837a790962787b3746fe.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/butterknife-6.1.0_19c6442e6892ec5b408f4f0309977e72fa3d704c.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/butterknife-6.1.0_19c6442e6892ec5b408f4f0309977e72fa3d704c.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/materiallib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cec5ae48e28e5cc326ccf774cf1fca27a97431e4">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mzb-phone-app-android-materiallib-unspecified_639bc3ae8437ac3275c3270c3c0ceeb22ce7198a.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mta-sdk-1.6.2_53c649cb47c84f069fba9a75994d26adcd2f211b.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_427c371b3d6d62218d1556c28ad5a0fcd8096201.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9b6a9a9078af571732159b904ad423b03b7cc786">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/android-support-v4_7be1cac73a1ab46b0bf4a6456830010d0d57dd94.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_efa828f82acfc796a20e07d360a64cd01624f993.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.0_1c8c8cbcad19b01375ffe8cb0f1b9dbd43656893.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/circleimageview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bcd948e80a71e98d06b502ad341580423a01b11">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mzb-phone-app-android-circleimageview-unspecified_ddf35bc2fe8351813fe4457bfd78a4aaf7eba1fd.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3_26c1884741c072a7ea5a7918558cce04699c05de.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/materiallib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fd18e5ae2be594567d9d7271123e8c832fd744ae">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mzb-phone-app-android-materiallib-unspecified_639bc3ae8437ac3275c3270c3c0ceeb22ce7198a.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/zxinglib/unspecified/jars/libs/zxing.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5e5c09c02d6336e2dc5a0e6fa5b2136e2bd4ebdb">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/zxing_a4bbb73d836614a864c6d14d8f4990b8343400e5.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/zxinglib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5dbce2e8acb3da2639e531c4bb36fcd430965a60">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/mzb-phone-app-android-zxinglib-unspecified_75b0ac28c3887a56962dd644d0d3d1d6868c0bf7.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.0_ebf46f382a8aee64ae2cdf3926d9ed123505ec62.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/gson-2.3.1_d54f0cdbe82e7e27ee244503f4dadf913627c9df.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/exploded-aar/mzb-phone-app-android/zxinglib/unspecified/jars/libs/zxing.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3f16a08dcdd91c30c1777b0a0239b3acb8ef5eb">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/zxing_a4bbb73d836614a864c6d14d8f4990b8343400e5.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/open_sdk_r5509.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="538ea8fb21ea76e8cb424598ac38127cb3344d79">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/open_sdk_r5509_644258c930752a81ef23bd8f649a25cf35794ad8.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/activeandroid-3.1-beta.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="60a522113b5b4beca6696530394e411705988e92">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/activeandroid-3.1-beta_1a4189716ad61a7aed44f5b4dbe23384c299fe2d.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/okhttp-2.7.2-2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/okhttp-2.7.2-2_1bf0a8f865e3e7df962e787be3382aa3f1898ec9.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eecec4744a3531e072405142fe7acf1472f36c27">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_3_af4c7cdf1a44add535f94dfc6c0791488e574e85.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="115a743cc0da01ca8dee6e2f2e5d901ea68200bd">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_2_766762ff0382cea1c9afb085e35ac11f8af75d53.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3_26c1884741c072a7ea5a7918558cce04699c05de.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/httpmime-4.1.3_ead56274dd543998f9541993403760ebdd31d827.jar" />
+    </item>
+    <item
+        jar="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/libs/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/xuebing/mzb/mzb-phone-app-android/rwxlicai/build/intermediates/pre-dexed/debug/butterknife-6.1.0_19c6442e6892ec5b408f4f0309977e72fa3d704c.jar" />
+    </item>
+
+</items>

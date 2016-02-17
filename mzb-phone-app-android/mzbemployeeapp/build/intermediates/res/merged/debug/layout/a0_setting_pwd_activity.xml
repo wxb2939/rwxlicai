@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/all_loginin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+    <include
+        layout="@layout/include_titlebar" />
+
+    <LinearLayout
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@color/common_white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@mipmap/sign"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp" />
+
+            <EditText
+                android:id="@+id/setting_pwd"
+                style="?android:attr/textViewStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="phone"
+                android:hint="请设置你的密码"
+                android:background="@null"
+                android:lines="1"
+                android:paddingBottom="5dip"
+                android:paddingTop="5dip"
+                android:password="true"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+    <Button
+        style="@style/CommButton"
+        android:text="登   陆"
+        android:id="@+id/login_in" />
+</LinearLayout>

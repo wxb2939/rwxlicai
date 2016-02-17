@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/include_titlebar" />
+
+    <com.xem.swipemenulistview.SwipeMenuListView
+        android:id="@+id/listView"
+        android:layout_below="@+id/include"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#00000000"
+        android:dividerHeight="5dp"
+        android:listSelector="@android:color/transparent"
+        android:padding="2dp"/>
+
+</RelativeLayout>

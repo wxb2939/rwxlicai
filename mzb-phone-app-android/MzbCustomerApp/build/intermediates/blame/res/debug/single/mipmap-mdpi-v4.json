@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/mem_balance.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/mem_balance.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/btn_browser2.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/btn_browser2.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/index02.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/index02.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/welcome_android_slogan.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/welcome_android_slogan.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/yuyue_img.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/yuyue_img.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/title.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/title.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/launcher.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/launcher.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/duihao.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/duihao.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/tab2.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/tab2.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/index01.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/index01.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_default.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/ic_default.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/index03.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/index03.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/sys_img.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/sys_img.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/btn_browser.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/btn_browser.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/info_err.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/info_err.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/sign.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/sign.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/mem_presented.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/mem_presented.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/next_arrow.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/next_arrow.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/tab1.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/tab1.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/top_view_back.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/top_view_back.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/mzb.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/mzb.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/yuyue_err.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-mdpi/yuyue_err.png"
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 39,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 656,
+                        "endColumn": 37,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 35,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 694,
+                        "endColumn": 33,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 42,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 728,
+                        "endColumn": 40,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 45,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 43,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 42,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 813,
+                        "endColumn": 40,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 45,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 854,
+                        "endColumn": 43,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 49,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 898,
+                        "endColumn": 47,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 33,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 946,
+                        "endColumn": 31,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 44,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 978,
+                        "endColumn": 42,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 47,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1021,
+                        "endColumn": 45,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 56,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1067,
+                        "endColumn": 54,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 59,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/values-w820dp/ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1122,
+                        "endColumn": 57,
+                        "endOffset": 1177
+                    }
+                }
+            }
+        ]
+    }
+]

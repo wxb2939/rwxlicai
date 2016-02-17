@@ -1,0 +1,42 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="commom_base_line">10dp</dimen>
+
+    <!-- common 界面的布局 -->
+    <dimen name="common_padding">2dp</dimen>
+    <dimen name="common_one_padding">1dp</dimen>
+    <dimen name="common_two_padding">2dp</dimen>
+    <dimen name="common_five_padding">5dp</dimen>
+    <dimen name="common_ten_padding">10dp</dimen>
+    <dimen name="common_padding_top">20dp</dimen>
+    <dimen name="common_padding_left">5dp</dimen>
+    <dimen name="common_padding_right">5dp</dimen>
+    <dimen name="common_fifty_high">50dp</dimen>
+    <dimen name="common_hundred_high">100dp</dimen>
+    <dimen name="common_eigty_high">80dp</dimen>
+
+    <!-- c0 界面的布局 -->
+    <dimen name="fragment_middle_margin">90dp</dimen>
+    <dimen name="c0_padding">5dp</dimen>
+    <dimen name="c0_padding_top">5dp</dimen>
+
+    <!-- e0 界面的布局 -->
+    <dimen name="e0_top_high">80dp</dimen>
+
+
+    <!-- 字体大小设置 -->
+    <dimen name="common_text_big">16dp</dimen>
+    <dimen name="common_text_biger">25dp</dimen>
+    <dimen name="common_text_middle">15dp</dimen>
+    <dimen name="common_text_small">11dp</dimen>
+    <dimen name="common_text_middler">18dp</dimen>
+
+    <dimen name="common_item_to_item_size">8dp</dimen>
+
+    <dimen name="txtsize_subhead">16sp</dimen>
+
+    <dimen name="icon_size">25dp</dimen>
+
+</resources>

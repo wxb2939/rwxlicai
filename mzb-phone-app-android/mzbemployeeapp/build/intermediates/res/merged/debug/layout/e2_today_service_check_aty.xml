@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/include_titlebar"/>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:background="@color/common_white">
+
+        <LinearLayout
+            android:id="@+id/doing"
+            style="@style/Linearlayout_Style"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tvdoing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="服务中"
+                android:textColor="@color/color_middle_text"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+
+
+        <View
+            android:layout_width="0.2dp"
+            android:layout_height="fill_parent"
+            android:background="@color/common_line_color" />
+
+        <LinearLayout
+            android:id="@+id/todo"
+            style="@style/Linearlayout_Style"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tvtodo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="预约中"
+                android:textColor="@color/color_middle_text"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.2dp"
+            android:layout_height="fill_parent"
+            android:background="@color/common_line_color" />
+
+        <LinearLayout
+            android:id="@+id/done"
+            style="@style/Linearlayout_Style"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tvdone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="已离店"
+                android:textColor="@color/color_middle_text"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <com.xem.mzbemployeeapp.views.NoScrollViewPager
+        android:id="@+id/viewpage"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+</LinearLayout>

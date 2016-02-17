@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/include_titlebar" />
+
+    <LinearLayout
+        android:id="@+id/unbind"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/common_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            style="?android:attr/textViewStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/common_padding_left"
+            android:text="解除绑定" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/common_line_color" />
+
+    <LinearLayout
+        android:id="@+id/changpwd"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/common_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            style="?android:attr/textViewStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/common_padding_left"
+            android:text="修改密码" />
+    </LinearLayout>
+</LinearLayout>

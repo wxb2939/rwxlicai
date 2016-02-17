@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/c1_select_stroe"
+        android:layout_width="fill_parent"
+        android:layout_height="90dp"
+        android:background="@drawable/writetogray"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="4"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/c0_padding"
+                android:paddingTop="15dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="服务项目："
+                    android:textColor="@color/color_middle_text"
+                    android:textSize="@dimen/common_text_middle" />
+
+                <TextView
+                    android:id="@+id/fu_xm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="面部项目"
+                    android:textColor="@color/color_middle_text"
+                    android:textSize="@dimen/common_text_middle" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/c0_padding"
+                android:paddingTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="顾问："
+                    android:textColor="@color/color_middle_text"
+                    android:textSize="@dimen/common_text_small" />
+
+                <TextView
+                    android:id="@+id/fu_gu"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="王丹"
+                    android:textColor="@color/color_middle_text"
+                    android:textSize="@dimen/common_text_small" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/c0_padding"
+                android:paddingTop="5dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="美疗师："
+                        android:textColor="@color/color_middle_text"
+                        android:textSize="@dimen/common_text_small" />
+
+                    <TextView
+                        android:id="@+id/fu_mls"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:lines="1"
+                        android:text="张佳佳"
+                        android:ellipsize="end"
+                        android:textColor="@color/color_middle_text"
+                        android:textSize="@dimen/common_text_small" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4">
+
+                    <TextView
+                        android:id="@+id/fu_sj"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="12:00"
+                        android:textColor="@color/color_middle_text"
+                        android:textSize="@dimen/common_text_small" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

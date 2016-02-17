@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="paysdkPY36">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rwxlicai/libs/paysdkPY36.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

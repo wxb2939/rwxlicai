@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/zxinglib/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/zxinglib/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/zxinglib/build/intermediates/res/merged/release/mipmap-hdpi-v4/top_view_back.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/zxinglib/src/main/res/mipmap-hdpi/top_view_back.png"
+    }
+]

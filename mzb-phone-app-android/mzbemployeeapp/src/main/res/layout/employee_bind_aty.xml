@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/all_bind"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/include_titlebar"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="130dp"
+        android:background="@color/common_white"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="您好：" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="         本功能仅对美容院员工开放，如果你是，请输入门店为你提供的门店账号进行绑定" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:text="谢谢配合" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/c1_apponitment"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="@dimen/common_padding_top"
+        android:background="@color/common_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="品牌编号"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:singleLine="true"
+            android:layout_weight="4"
+            android:textColor="@color/color_deep_text"
+            android:textSize="@dimen/common_text_middle" />
+
+        <EditText
+            android:id="@+id/brand_num"
+            style="?android:attr/textViewStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@null"
+            android:inputType="text"
+            android:hint="请输入品牌编号"
+            android:lines="1"
+            android:textColor="@color/color_middle_text"
+            android:textSize="@dimen/common_text_middle" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/common_line_color" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/common_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="账号"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:singleLine="true"
+            android:layout_weight="4"
+            android:textColor="@color/color_deep_text"
+            android:textSize="@dimen/common_text_middle" />
+
+        <EditText
+            android:id="@+id/account_num"
+            style="?android:attr/textViewStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@null"
+            android:hint="请输入账号"
+            android:inputType="text"
+            android:lines="1"
+            android:textColor="@color/color_middle_text"
+            android:textSize="@dimen/common_text_middle" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/common_line_color" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/common_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="密码"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:singleLine="true"
+            android:layout_weight="4"
+            android:textColor="@color/color_deep_text"
+            android:textSize="@dimen/common_text_middle" />
+
+        <EditText
+            android:id="@+id/account_pwd"
+            style="?android:attr/textViewStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@null"
+            android:inputType="textWebPassword"
+            android:hint="请输入密码"
+            android:lines="1"
+            android:textColor="@color/color_middle_text"
+            android:textSize="@dimen/common_text_middle" />
+    </LinearLayout>
+
+
+
+
+    <Button
+        android:id="@+id/btnBind"
+        style="@style/CommButton"
+        android:text="确    定" />
+
+</LinearLayout>

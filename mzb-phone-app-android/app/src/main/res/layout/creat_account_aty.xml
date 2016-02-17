@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+
+    <include
+        layout="@layout/top_view_back"
+        android:layout_width="match_parent"
+        android:layout_height="45dp" />
+
+    <LinearLayout
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/common_padding_top">
+
+        <LinearLayout
+            android:id="@+id/c1_apponitment"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="@dimen/common_padding_left"
+            android:layout_marginRight="@dimen/common_padding_right"
+            android:layout_marginTop="@dimen/common_padding_top"
+            android:background="@color/common_white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="手机"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:singleLine="true"
+                android:textColor="@color/color_middle_text"
+                android:textSize="@dimen/common_text_middle" />
+
+            <EditText
+                android:id="@+id/etphone"
+                style="?android:attr/textViewStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:hint=""
+                android:paddingBottom="5dip"
+                android:paddingTop="5dip" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.1dp"
+            android:layout_marginLeft="@dimen/common_padding_left"
+            android:layout_marginRight="@dimen/common_padding_right"
+            android:background="@color/common_line_color" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="@dimen/common_padding_left"
+            android:layout_marginRight="@dimen/common_padding_right"
+            android:background="@color/common_white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="密码"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:singleLine="true"
+                android:textColor="@color/color_middle_text"
+                android:textSize="@dimen/common_text_middle" />
+
+            <EditText
+                android:id="@+id/etpassword"
+                style="?android:attr/textViewStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:paddingBottom="5dip"
+                android:paddingTop="5dip" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.1dp"
+            android:layout_marginLeft="@dimen/common_padding_left"
+            android:layout_marginRight="@dimen/common_padding_right"
+            android:background="@color/common_line_color" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="@dimen/common_padding_left"
+            android:layout_marginRight="@dimen/common_padding_right"
+            android:background="@color/common_white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="称呼"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:singleLine="true"
+                android:textColor="@color/color_middle_text"
+                android:textSize="@dimen/common_text_middle" />
+
+            <EditText
+                android:id="@+id/etname"
+                style="?android:attr/textViewStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:hint=""
+                android:paddingBottom="5dip"
+                android:paddingTop="5dip" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/creat_account"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="@dimen/common_padding_left"
+        android:layout_marginRight="@dimen/common_padding_right"
+        android:layout_marginTop="50dp"
+        android:background="#ffffae28"
+        android:text="注册" />
+</LinearLayout>

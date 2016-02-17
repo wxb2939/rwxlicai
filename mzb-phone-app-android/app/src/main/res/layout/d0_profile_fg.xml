@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+    <include
+
+        layout="@layout/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="45dp" />
+
+
+    <RelativeLayout
+        android:id="@+id/personLogin"
+        android:paddingTop="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/common_white"
+        android:gravity="center_horizontal">
+
+
+        <ImageView
+            android:layout_width="100.0dip"
+            android:layout_height="100.0dip"
+            android:layout_centerInParent="true"
+            android:contentDescription="@null" />
+
+        <com.xem.mzbphoneapp.view.CircularImage
+            android:id="@+id/cover_user_photo"
+            android:layout_width="90.0dip"
+            android:layout_height="90.0dip"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@color/common_white"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/tv_uid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/cover_user_photo"
+            android:text="未登陆"
+            android:textSize="@dimen/common_text_middle" />
+
+    </LinearLayout>
+
+</LinearLayout>

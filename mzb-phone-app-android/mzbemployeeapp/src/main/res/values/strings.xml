@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">美之伴管店</string>
+    <string name="login_title">登录美之伴</string>
+    <string name="login_hint_phone">请输入手机号</string>
+    <string name="login_hint_pwd">请输入密码</string>
+    <string name="title_activity_a0__login_aty">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="network_error">请确认网络连接</string>
+    <string name="error_tag_gs_empty">格式不对</string>
+
+    <string name="e3_num_one">200001</string>
+    <string name="e3_num_two">200002</string>
+    <string name="e3_num_three">200003</string>
+    <string name="e3_num_four">200004</string>
+    <string name="e3_num_five">200005</string>
+
+
+    <string name="e3_title_one">门店通知</string>
+    <string name="e3_title_two">门店生日祝福</string>
+    <string name="e3_title_three">137提醒</string>
+    <string name="e3_title_four">预约提醒</string>
+    <string name="e3_title_five">预约取消</string>
+
+    <string name="e1_num_one">300001</string>
+    <string name="e1_num_two">300002</string>
+    <string name="e1_title_one">预约成功</string>
+    <string name="e1_title_two">门店通知</string>
+
+    <string name="e2_num_one">100001</string>
+    <string name="e2_num_two">100002</string>
+    <string name="e2_title_one">优惠活动</string>
+    <string name="e2_title_two">美容常识</string>
+
+
+    <!-- view 菜单的字符串 -->
+
+    <string name="dialog_title">Title</string>
+    <string name="dialog_message">Message</string>
+    <string name="dialog_ensure">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="exit">退出</string>
+    <string name="ensure_exit">确定退出该账户？</string>
+
+    <!-- 下拉刷新 -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">释放刷新</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">最后更新时间:</string>
+    <string name="xlistview_footer_hint_normal">加载更多</string>
+    <string name="xlistview_footer_hint_ready">Release to load more</string>
+
+    <string name="publish_message">Publish message</string>
+    <string name="phone_num_can_not_be_empty">请输入手机号码！</string>
+    <string name="comment_content_can_not_be_empty">Comment content can\'t be empty</string>
+    <string name="message_content_can_not_be_empty">请输入密码</string>
+    <string name="code_can_not_be_empty">请输入验证码</string>
+    <string name="fail_to_get_code">获取验证码失败</string>
+    <string name="fail_to_login">登陆失败，稍后再试！</string>
+    <string name="fail_to_load_timeline_data">Fail to load messages,please try later</string>
+    <string name="fail_to_pub_comment">Fail to publish comment,please try later</string>
+    <string name="fail_to_get_comment">Fail to get comments,please try later</string>
+    <string name="fail_to_publish">Fail to publish message,please try later</string>
+    <string name="suc_to_get_code">Success to get code,please check your short message</string>
+    <string name="suc_to_publish">Success to publish message</string>
+    <string name="connecting">请稍后</string>
+    <string name="connecting_to_server">努力加载中</string>
+    <string name="publish">publish</string>
+    <string name="net_err">请求错误</string>
+
+
+</resources>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ld.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/mipmap-mdpi/ld.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/mzb-phone-app-android/pulltorefresh/unspecified/res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/nodata_err.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/mipmap-mdpi/nodata_err.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/xj.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/mipmap-mdpi/xj.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ks.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/mipmap-mdpi/ks.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/cp.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/mipmap-mdpi/cp.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/e_check.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/mipmap-mdpi/e_check.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/xm.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/mipmap-mdpi/xm.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/mipmap-mdpi-v4/mzb.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/mipmap-mdpi/mzb.png"
+    }
+]

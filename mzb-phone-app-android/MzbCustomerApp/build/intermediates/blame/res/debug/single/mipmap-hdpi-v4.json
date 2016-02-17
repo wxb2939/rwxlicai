@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-hdpi-v4/mzb.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-hdpi/mzb.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-hdpi-v4/sign.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-hdpi/sign.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-hdpi-v4/launcher.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-hdpi/launcher.png"
+    }
+]

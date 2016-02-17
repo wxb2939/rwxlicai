@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f64927</color>
+
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="common_color">#719cff</color>
+    <color name="common_white">#ffffff</color>
+    <color name="common_gray">#cccccc</color>
+
+
+    <color name="btn_on">#fb9f6b</color>
+    <color name="btn_off">#f9752b</color>
+
+
+    <color name="color_small_text">#999999</color>
+    <color name="color_middle_text">#808080</color>
+    <color name="color_deep_text">#ff505050</color>
+
+
+    <color name="common_fragment_base_color">#f2f2f2</color>
+</resources>

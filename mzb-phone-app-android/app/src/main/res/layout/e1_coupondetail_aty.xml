@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_titlebar" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/common_white"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/coupon_logo"
+            android:layout_width="80.0dip"
+            android:layout_height="80.0dip"
+            android:layout_margin="15dp"
+            android:background="@mipmap/ic_default" />
+
+        <TextView
+            android:id="@+id/coupon_store"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="丽禧美美容会所"
+            android:textSize="@dimen/common_text_middle" />
+
+        <TextView
+            android:id="@+id/coupon_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="养生项目体验券"
+            android:textSize="@dimen/common_text_small" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/line_color"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/common_white"
+        android:padding="15dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="优惠券描述："/>
+        <TextView
+            android:id="@+id/coupon_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="包含名禧美容会所养生项目体验一次，前往美容会所即可使用。"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:background="@color/common_white"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="有效时间："/>
+        <TextView
+            android:id="@+id/coupon_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2015.5.1-2015.9.1"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/e1_share"
+        style="@style/CommButton"
+        android:text="分享优惠券"/>
+
+</LinearLayout>

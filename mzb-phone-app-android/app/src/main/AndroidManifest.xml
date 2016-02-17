@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xem.mzbphoneapp">
+
+    <permission
+        android:name="com.xem.mzbphoneapp.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <!-- Required  一些系统要求的权限，如访问网络等-->
+    <uses-permission android:name="com.xem.mzbphoneapp.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_SMS"/>
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:name="com.xem.mzbphoneapp.atys.MzbApplication"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/customTheme">
+
+        <activity
+            android:name=".atys.SplashAty"
+            android:launchMode="standard"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <meta-data
+                android:name="AuthorizeAdapter" android:value="cn.sharesdk.thirdlogin.MyAdapter" />
+
+        </activity>
+
+        <activity android:name=".atys.A0_HeadPortraitAty"/>
+        <activity android:name=".atys.A0_GetCodeAty"/>
+        <activity android:name=".atys.A0_LoginAty"/>
+        <activity android:name=".atys.E1_ProfileInfoAty"/>
+        <activity android:name=".atys.E1_RetrievePwdAty"/>
+        <activity android:name=".atys.E1_IdeaFeedbackAty"/>
+        <activity android:name=".atys.A0_ModifyPwdAty"/>
+        <activity android:name=".atys.E0_EmployeeBindAty"/>
+        <activity android:name=".atys.E1_EmployeeInfoAty"/>
+        <activity android:name=".atys.E1_EmployeeMoreAty"/>
+        <activity android:name=".atys.E1_ModifyPwdEmployeeAty"/>
+        <activity android:name=".atys.E0_CommAty"/>
+        <activity android:name=".atys.E0_InfoAty"/>
+        <activity android:name=".atys.B0_StoreListAty"/>
+        <activity android:name=".atys.B0_OrderAty"/>
+        <activity android:name=".atys.B1_OrderRecordAty"/>
+        <activity android:name=".atys.B1_QRcodeAty"/>
+        <activity android:name=".atys.WeiClassroomAty"/>
+        <activity android:name=".atys.NotificationAty"/>
+        <activity android:name=".atys.E1_EmployeeNewsAty"/>
+        <activity android:name=".atys.B1_MemberInfoAty"/>
+        <activity android:name=".atys.B1_ServeRecordAty"/>
+        <activity android:name=".atys.B1_Publish_Evaluate_Aty"/>
+        <activity android:name=".atys.E1_StudyPlatAty"/>
+        <activity android:name=".atys.E1_StorePurchaseAty"/>
+        <activity android:name=".atys.MainTabAty"/>
+        <activity android:name=".atys.E1_SettingAty"/>
+        <activity android:name=".atys.E1_AboutUsAty"/>
+        <activity android:name=".atys.E2_OrderQueryAty"/>
+        <activity android:name=".atys.E0_CouponAty"/>
+        <activity android:name=".atys.E1_CommSelectAty"/>
+        <activity android:name=".atys.E2_SelfCheckAty"/>
+        <activity android:name=".atys.E2_TodayServiceCheckAty"/>
+        <activity android:name=".atys.DifferentMenuActivity"/>
+        <activity android:name=".atys.E2_StoreFatisfyAty"/>
+        <activity android:name=".atys.E1_CouponDetailAty"/>
+        <activity android:name=".atys.SwitchActivity"/>
+        <activity android:name=".atys.E2_BrandServicetppAty"/>
+        <activity android:name=".atys.E3_ServiceingDetailAty"/>
+        <activity android:name=".atys.E3_ServicetodoDetailAty"/>
+        <activity android:name=".atys.E3_ServicedoneDetailAty"/>
+        <activity android:name=".atys.WebviewAty"/>
+        <activity android:name=".atys.E2_StoreOrderQueryAty"/>
+
+
+        <activity android:name=".atys.E2_Client137ManagerAty"/>
+        <activity android:name=".atys.E3_AddclientAty"/>
+        <activity android:name=".atys.E3_ManagerDetailAty"/>
+        <activity android:name=".atys.E3_Add137ManagerAty"/>
+        <activity android:name=".atys.E3_Manager137ModifyAty"/>
+        <activity android:name=".atys.B2_SelectMlsAty"/>
+        <activity android:name=".atys.B2_SelectItemAty"/>
+        <activity android:name=".atys.CommWriteAty"/>
+        <activity android:name=".atys.AddUsernameAty"/>
+        <activity android:name=".atys.AddUserinfpAty"/>
+        <activity android:name=".atys.A0_ExpAty"/>
+
+        <activity android:name=".atys.E1_CommPerfPpAty"/>
+        <activity android:name=".atys.E2_CommPerfBranchAty"/>
+        <activity android:name=".atys.E3_CommPerfEmployeeAty"/>
+
+        <activity android:name=".atys.Dialog137Activity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name=".atys.DialogCommentActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name=".atys.DialogActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- Required SDK核心功能-->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="orientation|keyboardHidden">
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.xem.mzbphoneapp" />
+            </intent-filter>
+        </activity>
+
+
+        <!-- 二维码扫描  -->
+        <activity
+            android:configChanges="orientation|keyboardHidden"
+            android:name="com.xem.zxing.activity.CaptureActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+
+        <!-- Required  SDK核心功能-->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false"/>
+
+
+        <!-- Required SDK 核心功能-->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+
+        <!-- Required SDK核心功能-->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true">
+            <intent-filter android:priority="1000">
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />
+                <!--Required  显示通知栏 -->
+                <category android:name="com.xem.mzbphoneapp" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+
+        </receiver>
+
+        <!-- Required SDK核心功能-->
+        <receiver android:name="cn.jpush.android.service.AlarmReceiver" />
+
+
+        <receiver
+            android:name="com.xem.mzbphoneapp.com.MzbReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" /> <!--Required  用户注册SDK的intent-->
+                <action android:name="cn.jpush.android.intent.UNREGISTRATION" />
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" /> <!--Required  用户接收SDK消息的intent-->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" /> <!--Required  用户接收SDK通知栏信息的intent-->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" /> <!--Required  用户打开自定义通知栏的intent-->
+                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" /> <!--Optional 用户接受Rich Push Javascript 回调函数的intent-->
+                <action android:name="cn.jpush.android.intent.CONNECTION" /><!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="com.xem.mzbphoneapp" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required  . Enable it you can get statistics data with channel -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="19c3827118f965ebbc93ed62" />
+        <!--  </>值来自开发者平台取得的AppKey-->
+
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="Mzb.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="1" />
+    </application>
+
+</manifest>

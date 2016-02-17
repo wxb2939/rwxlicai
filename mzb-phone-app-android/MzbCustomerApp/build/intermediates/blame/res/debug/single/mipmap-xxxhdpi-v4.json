@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cirle_ground.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-xxxhdpi/cirle_ground.png"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/order_time.png",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/mipmap-xxxhdpi/order_time.png"
+    }
+]

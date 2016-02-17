@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="82.0dip"
+        android:layout_height="82.0dip"
+        android:layout_centerInParent="true"
+        android:contentDescription="@null" />
+
+    <com.xem.mzbphoneapp.view.CircularImage
+        android:id="@+id/cover_user_photo"
+        android:layout_width="74.0dip"
+        android:layout_height="74.0dip"
+        android:layout_centerInParent="true" />
+
+
+</RelativeLayout>

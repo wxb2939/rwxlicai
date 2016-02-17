@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_titlebar"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@color/top_color" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        style="@style/TextViewTitle"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/switch_text"
+        android:textSize="15dp"
+        android:text="角色切换"/>
+
+    <TextView
+        style="@style/TextViewTitle"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:maxWidth="224dp"
+        android:text="美之伴管店"/>
+
+    <ImageView
+        android:id="@+id/titlebar_iv_middle"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_toLeftOf="@+id/titlebar_iv_right"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="12dp"
+        android:background="@mipmap/m_info"/>
+
+    <ImageView
+        android:id="@+id/titlebar_iv_right"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:padding="12dp"
+        android:background="@mipmap/m_more"/>
+
+</RelativeLayout>

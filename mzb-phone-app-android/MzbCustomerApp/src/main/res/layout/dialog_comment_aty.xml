@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:background="@color/common_white"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@mipmap/comm_title" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@mipmap/comm_ground"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/comm_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="70dp"
+                android:text="禧丽美美容会所"
+                android:textColor="#e7da76"
+                android:textSize="@dimen/common_text_big" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:paddingLeft="40dp"
+                android:paddingRight="40dp"
+                android:text="赠送优惠券"
+                android:textColor="#fefefe"
+                android:textSize="@dimen/common_text_middle" />
+
+            <TextView
+                android:id="@+id/comm_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="分享朋友圈，与好友一起抢吧！"
+                android:textColor="#fefefe"
+                android:textSize="@dimen/common_text_middle" />
+
+            <TextView
+                android:id="@+id/comm_share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="@mipmap/comm_null_ground"
+                android:gravity="center"
+                android:paddingLeft="40dp"
+                android:paddingRight="40dp"
+                android:text="立即分享"
+                android:textColor="#817f44"
+                android:textSize="@dimen/common_text_middle" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/comm_finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:background="@mipmap/comm_circle"
+            android:gravity="center"
+            android:text="关 闭 页 面" />
+    </LinearLayout>
+
+</RelativeLayout>

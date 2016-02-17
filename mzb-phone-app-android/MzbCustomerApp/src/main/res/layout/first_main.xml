@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="180dip"
+                android:orientation="vertical">
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/vp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right|bottom"
+                    android:paddingBottom="5dp"
+                    android:paddingRight="10dp">
+
+                    <View
+                        android:id="@+id/v_dot0"
+                        style="@style/dot_style"
+                        android:background="@drawable/dot_focused" />
+
+                    <View
+                        android:id="@+id/v_dot1"
+                        style="@style/dot_style" />
+
+                    <View
+                        android:id="@+id/v_dot2"
+                        style="@style/dot_style" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="360dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/my_store"
+                        style="@style/comm_button"
+                        android:layout_weight="1"
+                        android:drawableTop="@mipmap/m_store"
+                        android:text="我的门店" />
+
+                    <View
+                        android:layout_width="2dp"
+                        android:layout_height="fill_parent"
+                        android:background="@color/common_gray" />
+
+                    <Button
+                        android:id="@+id/order"
+                        style="@style/comm_button"
+                        android:layout_weight="1"
+                        android:drawableTop="@mipmap/m_order"
+                        android:text="预约" />
+
+                    <View
+                        android:layout_width="2dp"
+                        android:layout_height="fill_parent"
+                        android:background="@color/common_gray" />
+
+                    <Button
+                        android:id="@+id/beauty_file"
+                        style="@style/comm_button"
+                        android:layout_weight="1"
+                        android:drawableTop="@mipmap/m_beauty"
+                        android:text="美丽档案" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="@color/common_gray" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/server_comment"
+                        style="@style/comm_button"
+                        android:layout_weight="1"
+                        android:drawableTop="@mipmap/m_comment"
+                        android:text="服务点评" />
+
+                    <View
+                        android:layout_width="2dp"
+                        android:layout_height="fill_parent"
+                        android:background="@color/common_gray" />
+
+                    <Button
+                        android:id="@+id/server_account"
+                        style="@style/comm_button"
+                        android:layout_weight="1"
+                        android:drawableTop="@mipmap/m_account"
+                        android:text="我的账户" />
+
+                    <View
+                        android:layout_width="2dp"
+                        android:layout_height="fill_parent"
+                        android:background="@color/common_gray" />
+
+                    <Button
+                        android:id="@+id/privilege"
+                        style="@style/comm_button"
+                        android:layout_weight="1"
+                        android:drawableTop="@mipmap/m_conpon"
+                        android:text="优惠券" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="@color/common_gray" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

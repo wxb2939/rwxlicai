@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android_custom="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    
+    <com.rwxlicai.view.RoundProgressBar
+        android:id="@+id/roundProgressBar2"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="78dp"
+        android_custom:roundColor="#D1D1D1"
+        android_custom:roundProgressColor="#cf1717"
+        android_custom:textColor="#9A32CD"
+        android_custom:roundWidth="6dp"
+        android_custom:textSize="18sp" />
+</LinearLayout>

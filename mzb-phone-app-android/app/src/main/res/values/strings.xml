@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">美之伴</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Drawer_open</string>
+    <string name="drawer_close">Drawer_close</string>
+    <string name="phone">Phone</string>
+    <string name="get_code">Get code</string>
+    <string name="code">Code</string>
+    <string name="login">下一步</string>
+    <string name="commit">提 交</string>
+
+
+    <!-- 下拉刷新 -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">释放刷新</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">最后更新时间:</string>
+    <string name="xlistview_footer_hint_normal">加载更多</string>
+    <string name="xlistview_footer_hint_ready">Release to load more</string>
+
+
+    <!-- view 菜单的字符串 -->
+
+    <string name="dialog_title">Title</string>
+    <string name="dialog_message">Message</string>
+    <string name="dialog_ensure">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="exit">退出</string>
+    <string name="ensure_exit">确定退出该账户？</string>
+
+
+    <string name="publish_message">Publish message</string>
+    <string name="phone_num_can_not_be_empty">请输入手机号码！</string>
+    <string name="comment_content_can_not_be_empty">Comment content can\'t be empty</string>
+    <string name="message_content_can_not_be_empty">请输入密码</string>
+    <string name="code_can_not_be_empty">请输入验证码</string>
+    <string name="fail_to_get_code">获取验证码失败</string>
+    <string name="fail_to_login">登陆失败，稍后再试！</string>
+    <string name="fail_to_load_timeline_data">Fail to load messages,please try later</string>
+    <string name="fail_to_pub_comment">Fail to publish comment,please try later</string>
+    <string name="fail_to_get_comment">Fail to get comments,please try later</string>
+    <string name="fail_to_publish">Fail to publish message,please try later</string>
+    <string name="suc_to_get_code">Success to get code,please check your short message</string>
+    <string name="suc_to_publish">Success to publish message</string>
+    <string name="connecting">请稍后</string>
+    <string name="connecting_to_server">努力加载中</string>
+    <string name="publish">publish</string>
+    <string name="net_err">请求错误</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="progross_info">请稍后....</string>
+    <string name="network_error">请确认网络连接</string>
+
+
+
+    <string name="order_one">预约安排中</string>
+    <string name="order_two">预约已成功</string>
+    <string name="order_three">预约已取消</string>
+    <string name="order_four">预约已结束</string>
+
+
+
+    <!-- 推送的设置 -->
+    <string name="tag_hint">Tag为大小写字母，数字，下划线,中文， 多个用以逗号分隔</string>
+    <string name="alias_hint">Alias为大小写字母，数字，下划线</string>
+    <string name="style_hint">style为数字</string>
+    <string name="error_style_empty">style不能为空</string>
+    <string name="error_alias_empty">alias不能为空</string>
+    <string name="error_tag_empty">tag不能为空</string>
+    <string name="error_tag_gs_empty">格式不对</string>
+    <string name="error_network">网络连接异常,初始化失败 请检查网络！</string>
+    <string name="logining">程序在后台执行, 请查看日志！</string>
+    <string name="setting_su">设置成功</string>
+
+
+    <string name="e1_num_one">300001</string>
+    <string name="e1_num_two">300002</string>
+    <string name="e1_title_one">预约成功</string>
+    <string name="e1_title_two">取消预约</string>
+
+    <string name="e2_num_one">100001</string>
+    <string name="e2_num_two">100002</string>
+    <string name="e2_title_one">优惠活动</string>
+    <string name="e2_title_two">美容常识</string>
+
+
+    <string name="e3_num_one">200001</string>
+    <string name="e3_num_two">200002</string>
+    <string name="e3_num_three">200003</string>
+    <string name="e3_num_four">200004</string>
+    <string name="e3_num_five">200005</string>
+
+    <string name="e3_title_one">门店通知</string>
+    <string name="e3_title_two">门店生日祝福</string>
+    <string name="e3_title_three">137提醒</string>
+    <string name="e3_title_four">预约提醒</string>
+    <string name="e3_title_five">预约取消</string>
+
+</resources>

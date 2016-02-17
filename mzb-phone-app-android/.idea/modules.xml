@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MzbCustomerApp/MzbCustomerApp.iml" filepath="$PROJECT_DIR$/MzbCustomerApp/MzbCustomerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleimageview/circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/circleimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materiallib/materiallib.iml" filepath="$PROJECT_DIR$/materiallib/materiallib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mzb-phone-app-android.iml" filepath="$PROJECT_DIR$/mzb-phone-app-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mzbemployeeapp/mzbemployeeapp.iml" filepath="$PROJECT_DIR$/mzbemployeeapp/mzbemployeeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" filepath="$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rwxlicai/rwxlicai.iml" filepath="$PROJECT_DIR$/rwxlicai/rwxlicai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxinglib/zxinglib.iml" filepath="$PROJECT_DIR$/zxinglib/zxinglib.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/include_titlebar"/>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:background="@color/common_white"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:background="@mipmap/launcher"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="您的建议"/>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/idea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/common_ten_padding"
+        android:hint="     请输入反馈信息，我们将为您不断改进"
+        android:textSize="@dimen/common_text_small"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:minLines="8"
+        android:maxLines="10"
+        android:scrollbars="vertical"
+        android:background="@color/common_white"
+        >
+    </EditText>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="@dimen/common_ten_padding"
+        android:background="@color/common_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="您的联系方式"
+            android:textSize="@dimen/common_text_small"/>
+
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:hint="请输入您的联系方式，便于我们给予您的反馈"
+            android:textSize="@dimen/common_text_small"
+            android:inputType="phone"
+            android:lines="1"
+            android:background="@null" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/commit_feedback"
+        style="@style/CommButton"
+        android:text="提交意见"/>
+</LinearLayout>

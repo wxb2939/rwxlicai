@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_addclientaty_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_addclientaty_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/splash_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/splash_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/new_view_project.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/new_view_project.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_brandservicetpp_aty_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_brandservicetpp_aty_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/a0_modify_pwd_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/a0_modify_pwd_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_client137manageraty_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_client137manageraty_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_managerdetail_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_managerdetail_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_servicedetail_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_servicedetail_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_orderquery_aty_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_orderquery_aty_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_service_doing_fg.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_service_doing_fg.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/common_write_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/common_write_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_perf_branch_fg_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_perf_branch_fg_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_perf_emp_fg.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_perf_emp_fg.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_brandservicetpp_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_brandservicetpp_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/head_view.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/head_view.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_service_detail_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_service_detail_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/dialog_layout.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e1_perfpp_fg_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e1_perfpp_fg_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/include_titlebar.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/include_titlebar.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/mygridview.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/mygridview.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e1_info_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e1_info_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_satis_of_year_fg.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_satis_of_year_fg.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_managerdetailaty_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_managerdetailaty_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_storeorder_aty_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_storeorder_aty_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/ground_info_back.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/ground_info_back.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e1_comm_select_aty_new.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e1_comm_select_aty_new.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e1_perfpp_comm_fg.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e1_perfpp_comm_fg.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/experience.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/experience.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/left_right.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/left_right.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employ_yj_item.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employ_yj_item.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/text.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/text.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_storefatisfy_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_storefatisfy_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/footview_loading.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/footview_loading.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employee_bind_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employee_bind_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/get_code_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/get_code_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_service_todo_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_service_todo_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/a0_setting_pwd_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/a0_setting_pwd_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/a0_register_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/a0_register_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/dialog_listview.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/dialog_listview.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/mzb-phone-app-android/pulltorefresh/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e1_profile_info.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e1_profile_info.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employee_more_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employee_more_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/myd_headview.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/myd_headview.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employee_news_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employee_news_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_satisofday_fg_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_satisofday_fg_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/notification_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_store_query.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_store_query.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_today_service_check_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_today_service_check_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employee_info_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employee_info_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/b0_profile_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/b0_profile_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/experience_layout.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/experience_layout.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/ground_comm_back.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/ground_comm_back.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/text_item.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/text_item.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employ_infro.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employ_infro.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/activity_dialog.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/activity_dialog.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e1_info_fg.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e1_info_fg.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/ground_nonet_back.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/ground_nonet_back.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/ground_satify_back.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/ground_satify_back.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employ_headview.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employ_headview.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/activity_137_dialog.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/activity_137_dialog.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_add137_manager_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_add137_manager_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/modify_pwd_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/modify_pwd_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/b1_aboutus_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/b1_aboutus_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/b1_profile_info_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/b1_profile_info_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/title_bar.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/title_bar.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employ_inform_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employ_inform_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/mzb-phone-app-android/pulltorefresh/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_addclient.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_addclient.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/b0_info_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/b0_info_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/time_sele_item.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/time_sele_item.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e3_servicedetail_cell_two.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e3_servicedetail_cell_two.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/b1_opinionfeedback_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/b1_opinionfeedback_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_perf_branchc_comm.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_perf_branchc_comm.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e1_comm_select_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e1_comm_select_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/activity_a0__login_aty2.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/activity_a0__login_aty2.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_service_fg_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_service_fg_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/activity_article.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/activity_article.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/a0_exp_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/a0_exp_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/mygrid_item.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/mygrid_item.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/progress_view.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/progress_view.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/head_portrait_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/head_portrait_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/ground_order_back.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/ground_order_back.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_order_query_aty.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_order_query_aty.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/b1_setting_activity.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/b1_setting_activity.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/service_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/service_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/e2_storefatisfy_aty_cell.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/e2_storefatisfy_aty_cell.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/logreg.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/logreg.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/build/intermediates/res/merged/debug/layout/employ_myd_item.xml",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/mzbemployeeapp/src/main/res/layout/employ_myd_item.xml"
+    }
+]

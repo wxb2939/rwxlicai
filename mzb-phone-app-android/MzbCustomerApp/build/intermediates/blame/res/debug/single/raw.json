@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/raw/customer.txt",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/raw/customer.txt"
+    },
+    {
+        "merged": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/xuebing/mzb/mzb-phone-app-android/MzbCustomerApp/src/main/res/raw/realm_properties"
+    }
+]

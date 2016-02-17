@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/all_order"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_fragment_base_color"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_titlebar" />
+
+
+    <RelativeLayout
+        android:id="@+id/order_ground"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/llstore"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/common_white"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/b0_order_img"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_margin="@dimen/common_ten_padding" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="3"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical"
+                        android:paddingRight="2dp">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:paddingLeft="@dimen/c0_padding"
+                            android:paddingTop="10dp">
+
+                            <TextView
+                                android:id="@+id/b0_order_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="禧尔美美容会所"
+                                android:textColor="@color/color_deep_text"
+                                android:textSize="@dimen/common_text_big" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:paddingLeft="@dimen/c0_padding"
+                            android:paddingTop="5dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="联系电话："
+                                android:textColor="@color/color_middle_text"
+                                android:textSize="@dimen/common_text_small" />
+
+                            <TextView
+                                android:id="@+id/b0_order_phone"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="15：00"
+                                android:textColor="@color/color_middle_text"
+                                android:textSize="@dimen/common_text_small" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:paddingLeft="@dimen/c0_padding"
+                            android:paddingTop="5dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="地址："
+                                android:textColor="@color/color_middle_text"
+                                android:textSize="@dimen/common_text_small" />
+
+                            <TextView
+                                android:id="@+id/b0_order_adrress"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:ellipsize="end"
+                                android:lines="2"
+                                android:text="88"
+                                android:textColor="@color/color_middle_text"
+                                android:textSize="@dimen/common_text_small" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="@dimen/common_ten_padding"
+                    android:background="@color/common_white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_marginLeft="@dimen/common_ten_padding"
+                        android:layout_marginRight="@dimen/common_ten_padding"
+                        android:background="@mipmap/order_start" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="开始时间:" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:id="@+id/showdate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="@dimen/common_ten_padding"
+                        android:gravity="center_vertical"
+                        android:hint="2015-07-02" />
+
+                    <TextView
+                        android:id="@+id/showtime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="@dimen/common_ten_padding"
+                        android:gravity="center_vertical"
+                        android:hint="12:39"
+                        android:padding="@dimen/common_ten_padding" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.1dp"
+                    android:background="@color/line_color" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:background="@color/common_white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_marginLeft="@dimen/common_ten_padding"
+                        android:layout_marginRight="@dimen/common_ten_padding"
+                        android:background="@mipmap/order_time" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="在店时长(小时):" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/time_min"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:background="@mipmap/time_mins" />
+
+                    <TextView
+                        android:id="@+id/time_value"
+                        android:layout_width="55dp"
+                        android:layout_height="40dp"
+                        android:background="@null"
+                        android:enabled="false"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:text="0.5" />
+
+                    <ImageView
+                        android:id="@+id/time_sum"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@mipmap/icon_plus" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/order_mls"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="@dimen/common_ten_padding"
+                    android:background="@color/common_white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_marginLeft="@dimen/common_ten_padding"
+                        android:layout_marginRight="@dimen/common_ten_padding"
+                        android:background="@mipmap/order_service" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="预约美疗师:" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:id="@+id/order_service"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="待定" />
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@mipmap/next_arrow" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.1dp"
+                    android:background="@color/line_color" />
+
+                <LinearLayout
+                    android:id="@+id/order_item"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:background="@color/common_white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_marginLeft="@dimen/common_ten_padding"
+                        android:layout_marginRight="@dimen/common_ten_padding"
+                        android:background="@mipmap/order_item" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="预约项目:" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:id="@+id/yyxm"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="待定" />
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@mipmap/next_arrow" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.1dp"
+                    android:background="@color/line_color" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:background="@color/common_white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_marginLeft="@dimen/common_ten_padding"
+                        android:layout_marginRight="@dimen/common_ten_padding"
+                        android:background="@mipmap/order_pers" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="来店人数(个):" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/person_min"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:background="@mipmap/time_mins" />
+
+                    <TextView
+                        android:id="@+id/order_num"
+                        android:layout_width="55dp"
+                        android:layout_height="40dp"
+                        android:background="@null"
+                        android:enabled="false"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:text="1" />
+
+                    <ImageView
+                        android:id="@+id/person_sum"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@mipmap/icon_plus" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/order_extra"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="@dimen/common_ten_padding"
+                    android:background="@color/common_white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp">
+
+                    <TextView
+                        android:id="@+id/tvextra"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:hint="添加备注" />
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/b0_order_sure"
+                    style="@style/CommButton"
+                    android:layout_marginBottom="20dp"
+                    android:text="确   定" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+</LinearLayout>
